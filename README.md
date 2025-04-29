@@ -8,6 +8,10 @@ Welcome to my GitHub profile! I'm a passionate student who loves coding and doin
 - 👯 I’m looking to collaborate on machine learning and cybersecurity related projects
 - 📫 How to reach me: [Email](mailto:pharshil748@gmail.com) or [Linkedin](https://www.linkedin.com/in/harshil748/)
 
+## My Portfolio Website
+
+Check out my portfolio: [harshilpatel.me](https://harshilpatel.me)
+
 ## GitHub Stats
 
 ![Harshil's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshil748&show_icons=true&theme=radical)
