@@ -14,19 +14,28 @@ Check out my portfolio: [harshilpatel.me](https://harshilpatel.me)
 
 ## GitHub Stats
 
-![Harshil's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshil748&show_icons=true&theme=radical)
+![Harshil's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshil748&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshil748&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshil748&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+## GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=harshil748&theme=radical&hide_border=true)
 
 ## Projects
 
 Here are some of my notable projects:
 
-- [PyLock](https://github.com/harshil748/PyLock) - PyLock is a password manager that allows users to securely store and retrieve their passwords. It uses encryption to ensure that the stored passwords are safe and protected.
-- [Word-Analyzer](https://github.com/harshil748/Word-Analyzer) - Word Analyzer is a Java-based project that provides text analysis capabilities. It includes a web interface for users to input text and perform various operations such as analyzing word frequency, replacing words, and removing words. The project is designed to help users gain insights into their text data and perform text manipulation tasks easily.
-- [SMTP](https://github.com/harshil748/SMTP) - This project provides an implementation of an SMTP server/client, use to send verification code in Python.
+- [portfolio](https://github.com/harshil748/portfolio) - My personal portfolio website built with Next.js, TypeScript, and Tailwind CSS.
+- [VoiceAPI](https://github.com/harshil748/VoiceAPI) - A multilingual Text-to-Speech API supporting 11 Indian languages with style/prosody control.
+- [FleetFlow](https://github.com/harshil748/FleetFlow) - A modern fleet and logistics management platform for dispatch, driver safety, and analytics.
+- [GEN-AI](https://github.com/harshil748/GEN-AI) - MargdarshAI, a web app for personalized career and skills guidance using generative AI.
+- [Sentinel-Shield](https://github.com/harshil748/Sentinel-Shield) - An AI-powered surveillance platform for detecting market manipulation patterns.
+- [AI-Code-Reviewer](https://github.com/harshil748/AI-Code-Reviewer) - A full-stack app that provides AI-based code analysis and improvement suggestions.
+- [TimeTrackr](https://github.com/harshil748/TimeTrackr) - A productivity and time-tracking app for daily goals and visual reports.
+- [PyLock](https://github.com/harshil748/PyLock) - A secure password manager using encryption for storing and managing credentials.
 
 ## Connect with Me
 
