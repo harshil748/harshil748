@@ -9,7 +9,7 @@ I build projects around **AI, cybersecurity, Web3, and full-stack apps**.
 - Shipping practical apps that solve real problems
 
 ## 🧩 Featured Projects
-- [**ZKyc**](https://github.com/harshil748/ZKyc) — Cybersecurity-first decentralized identity and KYC verification system.
+- [**ZKyc**](https://github.com/harshil748/ZKyc) — Cybersecurity-focused decentralized identity and KYC verification system.
 - [**AgentChain**](https://github.com/harshil748/AgentChain) — Solidity-based decentralized agent verification, action logging, and trust scoring.
 - [**VoiceAPI**](https://github.com/harshil748/VoiceAPI) — Multilingual Text-to-Speech API supporting 11 Indian languages.
 - [**FleetFlow**](https://github.com/harshil748/FleetFlow) — Fleet and logistics platform for dispatch, safety, and analytics.
