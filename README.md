@@ -23,7 +23,7 @@ I build projects around **AI, cybersecurity, Web3, and full-stack apps**.
 
 ## 🤝 Let’s connect
 - [LinkedIn](https://www.linkedin.com/in/harshil748)
-- [Twitter / X](https://x.com/Harshil748)
+- [X](https://x.com/Harshil748)
 - [Email](mailto:pharshil748@gmail.com)
 
 ---
